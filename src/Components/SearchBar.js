@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class SearchBar extends Component {
 
     state={
-        textSearch:'dddd'
+        textSearch:''
     }
 
     changeHandler=(e)=>{
